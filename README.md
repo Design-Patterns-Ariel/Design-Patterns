@@ -38,3 +38,5 @@
   - [JavaScript-Factory(Design-Patterns)](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2004%20-%2003.04.2019/JavaScript-Factory(Design-Patterns))
   - [Python-Factory(Design-Patterns)](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2004%20-%2003.04.2019/Python-Factory(Design-Patterns))
   - [TypeScript-Factory(Design-Patterns)](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2004%20-%2003.04.2019/TypeScript-Factory(Design-Patterns))
+## Day 05 - 10.04.2019
+***
