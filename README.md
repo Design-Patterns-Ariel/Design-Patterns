@@ -40,3 +40,25 @@
   - [TypeScript-Factory(Design-Patterns)](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2004%20-%2003.04.2019/TypeScript-Factory(Design-Patterns))
 ## Day 05 - 10.04.2019
 ***
+## Day 06 - 17.04.2019
+***
+  - [JWT + SHA](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA)
+    - [00_SHA256-512](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/00_SHA256-512)
+      - [node_modules](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/00_SHA256-512/node_modules)
+        - [crypto-js](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/00_SHA256-512/node_modules/crypto-js)
+          - [docs](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/00_SHA256-512/node_modules/crypto-js/docs)
+    - [01_JsonWebToken](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken)
+      - [node_modules](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules)
+        - [buffer-equal-constant-time](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/buffer-equal-constant-time)
+        - [crypto-js](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/crypto-js)
+          - [docs](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/crypto-js/docs)
+        - [ecdsa-sig-formatter](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/ecdsa-sig-formatter)
+        - [jsonwebtoken](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/jsonwebtoken)
+          - [lib](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/jsonwebtoken/lib)
+        - [jwa](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/jwa)
+        - [jws](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/jws)
+          - [lib](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/jws/lib)
+        - [lodash.includes](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/lodash.includes)
+        - [lodash.isboolean](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/lodash.isboolean)
+        - [lodash.isinteger](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/lodash.isinteger)
+        - [lodash.isnumber](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken/node_modules/lodash.isnumber)
