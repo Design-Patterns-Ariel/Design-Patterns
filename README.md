@@ -45,3 +45,6 @@
   - [JWT + SHA](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA)
     - [00_SHA256-512](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/00_SHA256-512)
     - [01_JsonWebToken](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2006%20-%2017.04.2019/JWT%20+%20SHA/01_JsonWebToken)
+## Day 07 - 01.05.2019
+***
+  - [server](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2007%20-%2001.05.2019/server)
