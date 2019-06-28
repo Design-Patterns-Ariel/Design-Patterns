@@ -33,6 +33,8 @@
     - [JS](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2003%20-%2021.03.2019/TypeScript/JS)
 ## Day 04 - 03.04.2019
 ***
+  - [00_java](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2004%20-%2003.04.2019/00_java)
+    - [factory](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2004%20-%2003.04.2019/00_java/factory)
   - [CSharp-Factory(Design-Patterns)](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2004%20-%2003.04.2019/CSharp-Factory(Design-Patterns))
   - [Java-Factory(Design-Patterns)](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2004%20-%2003.04.2019/Java-Factory(Design-Patterns))
   - [JavaScript-Factory(Design-Patterns)](https://github.com/bsharabi/Design-Patterns/tree/master/Day%2004%20-%2003.04.2019/JavaScript-Factory(Design-Patterns))
